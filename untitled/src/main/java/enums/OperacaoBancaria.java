@@ -1,0 +1,11 @@
+package enums;
+
+public enum OperacaoBancaria {
+    DEPOSITO,
+    SAQUE,
+    TRANSFERENCIA,
+    RECEBIMENTO_DE_TRANSFERENCIA,
+    FINANCIAMENTO,
+    RECEBIMENTO_DIVIDENDOS,
+    PORTABILIDADE
+}
